@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="e4d3-7261-5897-5446" name="North-Star" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="fe4e-800f-c049-e372" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="e440-2960-9669-36e3" name="Light Frame" hidden="false" collective="false" import="true" targetId="a006-10b7-f863-2a28" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="017b-10b7-7241-35e5" type="max"/>
+      </constraints>
+    </entryLink>
+    <entryLink id="b48f-f1c6-e2ed-c6d1" name="Rookie Pilot" hidden="false" collective="false" import="true" targetId="7d86-ca74-2d80-0a16" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9884-6ffd-c383-82c1" type="min"/>
+      </constraints>
+    </entryLink>
+    <entryLink id="9c00-2a82-0dc1-e721" name="Trained Pilot" hidden="false" collective="false" import="true" targetId="2615-f47a-3a83-2294" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f48c-1435-b9a2-a033" type="max"/>
+      </constraints>
+    </entryLink>
+    <entryLink id="d40f-6bb5-9a78-55c7" name="Veteran Pilot" hidden="false" collective="false" import="true" targetId="c756-895d-7cc3-802e" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5114-27be-de7b-481e" type="max"/>
+      </constraints>
+    </entryLink>
+    <entryLink id="6261-ac73-2e80-c90c" name="Medium Frame" hidden="false" collective="false" import="true" targetId="06a5-0918-e699-47c2" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="6.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fe60-76bb-a591-d1c5" type="max"/>
+      </constraints>
+    </entryLink>
+    <entryLink id="8460-552b-eff1-113a" name="Heavy Frame" hidden="false" collective="false" import="true" targetId="feb6-4154-28b1-7bff" type="selectionEntry">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a7e7-5153-1efd-dac4" type="max"/>
+      </constraints>
+    </entryLink>
+  </entryLinks>
+  <rules>
+    <rule id="46d4-f3eb-e79c-71a5" name="Meat for the Grinder" hidden="false"/>
+  </rules>
+</catalogue>

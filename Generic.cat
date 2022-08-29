@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="4971-4f81-ca6a-f75e" name="Generic" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="fe4e-800f-c049-e372" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="97a4-c0d3-ac2c-e96f" name="Light Frame" hidden="false" collective="false" import="true" targetId="a006-10b7-f863-2a28" type="selectionEntry"/>
+    <entryLink id="391f-768f-53ae-4696" name="Rookie Pilot" hidden="false" collective="false" import="true" targetId="7d86-ca74-2d80-0a16" type="selectionEntry"/>
+    <entryLink id="bc3b-c482-b11b-73ec" name="Veteran Pilot" hidden="false" collective="false" import="true" targetId="c756-895d-7cc3-802e" type="selectionEntry"/>
+    <entryLink id="285d-76af-bd08-5f31" name="Trained Pilot" hidden="false" collective="false" import="true" targetId="2615-f47a-3a83-2294" type="selectionEntry"/>
+    <entryLink id="47b1-16a3-4c33-11a8" name="Medium Frame" hidden="false" collective="false" import="true" targetId="06a5-0918-e699-47c2" type="selectionEntry"/>
+    <entryLink id="37f1-f820-a93a-6f49" name="Heavy Frame" hidden="false" collective="false" import="true" targetId="feb6-4154-28b1-7bff" type="selectionEntry"/>
+  </entryLinks>
+</catalogue>
